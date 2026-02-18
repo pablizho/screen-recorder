@@ -1,0 +1,41 @@
+# Записи видео
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.wmv
+*.wav
+recordings/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Настройки пользователя
+config.json
+
+# Временные файлы
+*.tmp
+*_temp.*
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
