@@ -54,7 +54,7 @@
 
 ```bash
 
-git clone https://github.com/ВАШ-ЛОГИН/screen-recorder.git
+git clone https://github.com/pablizho/screen-recorder.git
 
 cd screen-recorder 
 
